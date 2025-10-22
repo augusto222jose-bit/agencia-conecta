@@ -1,0 +1,3 @@
+💻 3. script.js (opcional)
+js
+console.log("Agência Conecta carregada com sucesso!");
