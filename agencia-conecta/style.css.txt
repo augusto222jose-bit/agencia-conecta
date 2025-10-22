@@ -1,0 +1,11 @@
+
+🎨 2. style.css
+css
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  text-align: center;
+  margin-top: 50px;
+}
+

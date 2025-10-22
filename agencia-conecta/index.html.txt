@@ -1,0 +1,16 @@
+📄 1. index.html
+html
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Agência Conecta</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Bem-vindo à Agência Conecta</h1>
+  <p>Este é o site oficial!</p>
+  <script src="script.js"></script>
+</body>
+</html>
